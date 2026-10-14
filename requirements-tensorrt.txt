@@ -1,0 +1,4 @@
+-r requirements.txt
+cuda-python>=12,<14
+tensorrt>=11,<12
+
